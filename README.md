@@ -1,1 +1,1 @@
-# manfang_fp
+# S-Tronics KiCAD Library
