@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SW_SPST_4PIN
+D 1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol
+K dip switch
+F ~
+$ENDCMP
+#
+#End Doc Library

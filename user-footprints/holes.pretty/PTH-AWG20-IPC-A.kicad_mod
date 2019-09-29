@@ -1,0 +1,9 @@
+(module PTH-AWG20-IPC-A (layer F.Cu) (tedit 5D90CD68)
+  (fp_text reference J4 (at 2.2 0.1) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value DNF (at 0 1.8) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 2.1336 2.1336) (drill 1.3208) (layers *.Cu *.Mask))
+)

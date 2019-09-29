@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LM293A
+D Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/SSOP-8
+K dual comparator
+F http://www.ti.com/lit/ds/symlink/lm393-n.pdf
+$ENDCMP
+#
 $CMP LP5912
 D LDO
 F http://www.ti.com/lit/ds/symlink/lp5912.pdf

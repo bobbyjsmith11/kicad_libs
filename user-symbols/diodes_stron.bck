@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D_TVS_ALT
+D Bidirectional transient-voltage-suppression diode, filled shape
+K diode TVS thyrector
+F ~
+$ENDCMP
+#
+#End Doc Library

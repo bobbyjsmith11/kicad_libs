@@ -1,0 +1,9 @@
+(module PTH-22AWG-IPC-A (layer F.Cu) (tedit 5D6AA50B)
+  (fp_text reference REF** (at 0 -1.524) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value PTH-22AWG-IPC-A (at 0 1.524) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 1.6256 1.6256) (drill 0.9144) (layers *.Cu *.Mask))
+)
